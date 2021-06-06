@@ -1,5 +1,5 @@
 import './UseState.css'
-import React, {UseState} from "react"
+import React, { useState } from "react"
 
 const UseState = props => {
 

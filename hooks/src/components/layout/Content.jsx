@@ -2,7 +2,8 @@ import './Content.css'
 import React from "react"
 import { Switch, Route } from 'react-router-dom'
 import Hooks from '../../views/contents/Hooks'
-import UseState from '../../views/contents//NaoEncontrado'
+import UseState from '../../views/contents/UseState'
+import NaoEncontrado from '../../views/contents//NaoEncontrado'
 
 const Content = props => (
     <main className="Content">
